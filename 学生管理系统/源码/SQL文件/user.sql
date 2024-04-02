@@ -1,0 +1,1 @@
+INSERT INTO `user` VALUES ('202101', '111');

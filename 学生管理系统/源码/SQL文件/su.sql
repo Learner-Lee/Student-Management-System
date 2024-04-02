@@ -1,0 +1,1 @@
+INSERT INTO `su` VALUES ('root', 123456);
